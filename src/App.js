@@ -16,7 +16,7 @@ const DiplomaRegistry = {
   ]
 };
 
-const contractAddress = "0x796Be40eBA08cC367F1f2D40856B61F6a00b2F4d";
+const contractAddress = "0x110795Df87F8B1DFdE00d76a03b4d52e32Bd9C73";
 
 function App() {
   const [account, setAccount] = useState("");
